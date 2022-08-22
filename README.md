@@ -1,1 +1,13 @@
 # CS-320-T6630-Software-Test-Automation-QA-22EW6
+
+# How can I ensure that my code, program, or software is functional and secure?
+
+The way that I ensure that my code, program, and even software are functional and secure is through testing. This means that I would test features such as inputs, and this means that I would check that the program only accepts inputs that conform to the requirements that were created for the program. For example, if inputting a user name only allows 20 characters or less then I would check that the program only accepts up to 20 characters for user names. If the program works correcly then will reject results that have more than 20 characters. Additionally, I would check that different parts of the program interact with each other properly. This means that they pass the correct variables and functions to where they are supposed to be, be it from one class to another or from one method to another. This will help ensure that the software is functioning correctly and according to the programs requirements.
+
+# How do I interpret user needs and incorporate them into a program?
+
+To interpret user needs I first collect requirements about what the user wants and expects from the program. I use requirements as a baseline for understanding what my type of inputs my program needs, what type of outputs I need, and what processes will need to happen in the code to complete the program according to the requirements. By following those steps I can incorporate the user needs into a program, and be able adapt the program in case the user needs change, or to add more features if it becomes necessary.
+
+# How do I approach designing software?
+
+I approach software design by first figuring out what the program needs to achieve, meaning what it needs to output and how the user is supposed to use this output. This allows me to understand what the program needs for its input, after all if I do not know what the software is expected to achieve then I do not know what information the software needs to achieve its end result. Once I know how the start of the program (the inputs) and the end of the program (the outputs) looks like, I will then work on creating the functions and processes that will achieve those results. Once I finish making software I will test it out to see that it works, functions as it should, and that the inputs and outputs are working as expected then I will go back to the code and start to makes changes and search for ways to get rid of any potential inefficiency in my code. I will carry another rounds of tests to makes sure that the more efficient version of the software works.
